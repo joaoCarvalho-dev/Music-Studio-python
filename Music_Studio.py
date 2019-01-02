@@ -1,6 +1,3 @@
-#Author Name: Joao Carvalho 
-#Author Student Number: R00158576
-
 #Imports packages datetime and re
 import datetime, re
 
